@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/soradasl.plainjs-kwon7ms9-fork-kwop8d9x",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve YOJpTUXJGVysU37Fr5ej --open"
+  }
+}
